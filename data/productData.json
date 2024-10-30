@@ -1,0 +1,50 @@
+[
+    { "key": 1,
+      "image":"Burger.jpg",
+      "name": "King Burger",
+      "about":"Popular",
+      "price": "$ 4.50",
+      "description":"A juicy, flame-grilled beef patty topped with fresh lettuce, ripe tomatoes, crispy pickles, and melted cheese, all sandwiched between a toasted sesame seed bun. Perfect for satisfying your cravings! Dealing with everyday struggle to cook a different yet filling evening snack for your kid or a brunch party is no more a hassle, as this recipe of easy and quick Chicken burger ends it all. Spicy minced chicken tikki between buttered buns is sure to have many mouth watering slurps around!"
+    },
+    {
+        "key": 2,
+        "image":"fried chicken.jpg",
+        "name": "Fried chicken",
+        "about":"Recommanded",
+        "price": "$ 18.00",
+        "description":"Crispy on the outside and tender on the inside, fried chicken is a delightful treat that's packed with flavor. Each piece is coated in a perfectly seasoned, golden-brown crust that adds just the right amount of crunch with every bite. Underneath the crunchy coating lies juicy, tender chicken that’s been marinated to perfection, locking in mouth-watering flavors. Whether enjoyed on its own, paired with a side of mashed potatoes, or drizzled with a touch of honey, fried chicken offers a comforting, satisfying experience that’s hard to resist."
+    },
+    {   
+        "key": 3,
+        "image":"pizza.jpg",
+        "name": "Cheese Pizza",
+        "about":"New",
+        "price": "$ 12.00",
+        "description":"A classic favorite, cheese pizza is a simple yet irresistible delight. Each slice boasts a golden, crispy crust that perfectly balances a chewy, airy texture. It’s topped with a rich layer of marinara sauce made from vine-ripened tomatoes, infused with hints of herbs and spices. Melted mozzarella blankets the entire pizza, creating a creamy, gooey layer that stretches with each bite. The cheese is bubbly and slightly browned, adding a touch of smokiness and a satisfying, savory finish. This timeless pizza is pure comfort, loved by everyone and perfect for any occasion."
+    },
+    {
+      "key": 4,
+      "image":"french fries.jpg",
+      "name": "French fries",
+      "about":"Top",
+      "price": "$ 7.00",
+      "description":"Golden and crispy on the outside, soft and fluffy on the inside, French fries are the ultimate side or snack. Each fry is perfectly seasoned, with just the right touch of salt to enhance its natural flavor. They’re cooked to a flawless crisp, creating that satisfying crunch with every bite, followed by a warm, tender center. Perfect on their own or dipped in ketchup, mayonnaise, or any sauce you love, French fries are a versatile favorite that adds joy to any meal or stands strong as a delicious snack on its own."
+    },
+    {
+      "key": 5,
+      "image":"fried rice.jpg",
+      "name": "Fried rice",
+      "about":"Must try",
+      "price": "$ 20.00",
+      "description":"A delicious blend of tender chicken, fluffy rice, and vibrant vegetables, chicken fried rice is a flavorful and satisfying dish. Each grain of rice is lightly fried, absorbing the savory goodness of soy sauce and spices. Juicy bites of seasoned chicken are perfectly cooked, complementing the freshness of crisp carrots, peas, and green onions. With a hint of garlic and ginger, every spoonful bursts with rich, well-balanced flavors. Garnished with a sprinkle of green onions, this classic comfort food is a perfect harmony of textures and tastes, making it an irresistible meal on its own or alongside other dishes."
+    },
+    {
+      "key": 6,
+      "image":"sandwich.jpg",
+      "name": "Veg Sandwich",
+      "about":"Bestseller",
+      "price": "$ 3.00",
+      "description":"Indulge in our delicious veg sandwich, a delightful blend of fresh ingredients that tantalize your taste buds. Soft, toasted whole-grain or sourdough bread serves as the hearty base, layered with crisp lettuce, juicy tomatoes, crunchy cucumbers, and vibrant bell peppers. A creamy spread of hummus or zesty pesto adds richness, while a touch of tangy mayonnaise or mustard enhances the experience. Optional slices of smooth cheddar or mozzarella provide a cheesy indulgence, and a sprinkle of salt, pepper, and Italian herbs elevates the taste. Each bite offers a perfect harmony of textures,making it a refreshing and satisfying snack or light meal for any time of day."
+    }
+    
+  ]
